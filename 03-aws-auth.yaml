@@ -23,9 +23,9 @@ data:
       - roboshop-trainee
       userarn: arn:aws:iam::160885265516:user/rahim
       username: rahim
-kind: ConfigMap
-metadata:
-  creationTimestamp: "2025-12-11T01:49:27Z"
+
+  creationTimestamp: "2025-12-17T03:16:15Z"
   name: aws-auth
   namespace: kube-system
-  uid: 33956aae-bab6-40e4-af5b-8e3b202d922e
+  resourceVersion: "1197"
+  uid: e2725828-ea8b-419c-a257-7acc1766127f
