@@ -25,7 +25,7 @@ data:
       username: rahim
     - groups:
       - roboshop-admin
-      userarn: arn:aws:iam::160885265516:user/ravi
+      userarn: arn:aws:iam::478567332414:user/ravi
       username: ravi
 kind: ConfigMap
 metadata:
