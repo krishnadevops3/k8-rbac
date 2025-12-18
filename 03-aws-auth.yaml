@@ -25,13 +25,12 @@ data:
       username: rahim
     - groups:
       - roboshop-admin
-      userarn: arn:aws:iam::160885265516:user/ravi 
+      userarn: arn:aws:iam:: 478567332414:user/ravi
       username: ravi
 kind: ConfigMap
 metadata:
   creationTimestamp: "2025-12-18T04:14:42Z"
   name: aws-auth
   namespace: kube-system
-  resourceVersion: "1227"
   uid: e0695a13-2a6e-41aa-9500-624f035bba89
 
